@@ -1,6 +1,6 @@
 name:                hascheme
 version:             0.1.0.0
-github:              "githubuser/hascheme"
+github:              "ygenks/hascheme"
 license:             BSD3
 author:              "Author name here"
 maintainer:          "example@example.com"
@@ -21,6 +21,7 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- parsec
 
 library:
   source-dirs: src
